@@ -1,0 +1,15 @@
+.navbarSection {
+    border: 2px solid red;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    padding: 0px 20px;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.navbarSection:hover {
+    background-color: red;
+    color: white;
+}
